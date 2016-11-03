@@ -1,2 +1,2 @@
-# hello_world
+# hello-github
 zz's first project in github.
